@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.darkdragon.metadata" version="1.0.1" name="Dark Dragon Metadata" provider-name="Dragon">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the Dark Dragon Addon</summary>
+		<description>Dark Dragon</description>
+		<platform>all</platform>
+	</extension>
+</addon>
